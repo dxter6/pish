@@ -1,7 +1,10 @@
 # pish(This Tool is Used for Phishing)
 
-This tool is used to clone the website which is basically build on Html
+# Requirments
 
+Python Modules BeautifulSoup4 , Requests 
+
+This tool is used to clone the website which is basically build on Htm
 # Step-1
   Enter the site you wanna clone
 # Step-2 
