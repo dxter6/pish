@@ -11,6 +11,6 @@ if a == 2:
 if a == 3:
     print(soup.prettify())
 if a == 4:
-    Html_file=open("hello.html","w")
+    Html_file=open("Index.html","w")
     Html_file.write(soup.prettify())
     Html_file.close
