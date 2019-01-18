@@ -1,5 +1,5 @@
 import os, bs4, requests
-b = input("enter the site")
+b = input("enter the site: ")
 a = int(input("""enter the Attacks(1::Raw content,2::page-status-code,3::pretty-Html,4::clones the website in your desktop):"""))
 page = requests.get(b)
 from bs4 import BeautifulSoup
